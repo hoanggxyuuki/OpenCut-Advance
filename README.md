@@ -160,7 +160,7 @@ The following advanced features were developed and contributed by **[hoanggxyuuk
 
 Thanks to [Vercel](https://vercel.com?utm_source=github-opencut&utm_campaign=oss) for their support of open-source software.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FOpenCut-app%2FOpenCut&project-name=opencut&repository-name=opencut)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhoanggxyuuki%2FOpenCut-Advance%26project-name%3Dopencut%26repository-name%3Dopencut)
 
 ## License
 
